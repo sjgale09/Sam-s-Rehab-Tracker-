@@ -1,0 +1,22 @@
+{
+  "name": "Sam's Rehab Tracker",
+  "short_name": "Rehab Tracker",
+  "description": "Posterior tibial tendinitis rehab tracker",
+  "start_url": "/Sam-s-Rehab-Tracker/",
+  "display": "standalone",
+  "background_color": "#e8e8e8",
+  "theme_color": "#e8e8e8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon_io-3/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon_io-3/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
